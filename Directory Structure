@@ -1,0 +1,14 @@
+multilingual-sentiment-analysis/
+├── data/
+│   └── sample_dataset.csv     # Sample multilingual dataset
+├── models/
+│   ├── logistic_regression.pkl
+│   ├── svm_model.pkl
+│   └── random_forest.pkl
+├── src/
+│   ├── preprocess.py
+│   ├── train_models.py
+│   └── evaluate_models.py
+├── requirements.txt
+├── README.md
+├── .gitignore
