@@ -1,0 +1,23 @@
+Multilingual Sentiment Dataset from Kaggle
+Languages: Mixed (French, German, Spanish, etc.)
+
+
+## Dataset
+
+The dataset used for this project includes multilingual text samples labeled for sentiment classification (positive, negative, neutral).
+
+- Languages: English, French, German, Spanish
+- Format: CSV with three columns – `text`, `language`, and `label`
+
+### Sample Format
+
+| text              | language | label    |
+|-------------------|----------|----------|
+| Je suis très content | fr       | positive |
+| Das war schlecht     | de       | negative |
+| This is okay         | en       | neutral  |
+
+### Source
+
+Kaggle: 
+Link: https://www.kaggle.com/datasets/rtatman/multilingual-twitter-sentiment
